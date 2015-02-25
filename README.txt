@@ -1,6 +1,6 @@
 === Simple Google Analytics Tracking ===
 Contributors: dustyn
-Tags: google, analytics, google analytics, simple, tracking, google analytics tracking, simple google analytics tracking, sgat
+Tags: google, analytics, google analytics, simple, tracking, google analytics tracking, simple google analytics tracking, sgat, simple google analytics, simple tracking
 Requires at least: 3.8
 Tested up to: 4.1.1
 Stable tag: 1.2
